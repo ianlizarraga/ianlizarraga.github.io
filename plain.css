@@ -1,0 +1,42 @@
+<style type="text/css">
+
+*{}
+
+body, table
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px;
+}
+
+body
+{
+	margin-top: 10px;
+	margin-right: 100px;
+	margin-bottom: 25px;
+	margin-left: 100px;
+	background-color:#CCC;
+	background-image:url(img/gray_bg.jpg)
+}
+
+hr
+{
+	border-color:black;
+}
+
+a:link {color:#900;}      /* unvisited link */
+a:visited {color:#900;}  /* visited link */
+a:hover {color:#006;}  /* mouse over link */
+a:active {color:#006;}  /* selected link */
+
+div.mainbody
+{
+	width:800px;
+	text-align:left;
+	background-color:white;
+	padding:25px;
+	border:2px solid;
+	border-color:#000;
+}
+
+ol, li {margin: 0.2em; }
+</style>
